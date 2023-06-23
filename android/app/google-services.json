@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620764597890",
+    "project_id": "nnews-a7b81",
+    "storage_bucket": "nnews-a7b81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620764597890:android:00aefcafd825aff80fae9b",
+        "android_client_info": {
+          "package_name": "com.harunsimsek.nnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620764597890-pol6jhmptl533acp7bo0agsle0n1s9f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQSIY8ucIk_wtss-MPeFLh6992D0AokLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620764597890-pol6jhmptl533acp7bo0agsle0n1s9f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
